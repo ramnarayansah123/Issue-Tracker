@@ -11,7 +11,7 @@ export default function Home() {
         <li><Link href="/issue">Dashboard</Link></li>
         <li><Link href="/dashbord">Issue</Link></li>
         
-      </ul>
+      </ul> 
       
 
 
