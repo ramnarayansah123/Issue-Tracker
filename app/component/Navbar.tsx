@@ -8,7 +8,7 @@ export default function Navbar(){
       <Link href=""><FaBug /></Link>
       <ul className="flex space-x-6 border-b mb-5">
         <li><Link href="/dashboard">Dashboard</Link></li>
-        <li><Link href="/issue/new">Issue</Link></li>
+        <li><Link href="/issue">Issue</Link></li>
       </ul> 
        </nav>
         </>
